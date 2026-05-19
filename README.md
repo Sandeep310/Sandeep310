@@ -8,7 +8,7 @@ Uncomment the line below when ready:
 
 # 🛡️ Welcome to My Digital Fortress 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AWS+DevOps+Engineer+%7C+Cloud+Architect;+%7C+Security;Building+Secure+%26+Scalable+Infrastructure;Automating+Everything+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AWS+DevOps+Engineer+%7C+Cloud+Architect;+%7C+Building+Secure+%26+Scalable+Infrastructure;Automating+Everything+%F0%9F%92%BB" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sandeep310&color=00D9FF&style=flat-square&label=Profile+Views)
 
