@@ -62,22 +62,7 @@ motto: "Automate Everything, Secure Everything"
 - 🚀 **CI/CD Pipelines** - GitHub Actions
 - 🛡️ **Security Operations** - Threat hunting, vulnerability assessments
 - 📊 **Monitoring & Observability** - CloudWatch, Prometheus, Grafana, ELK
-
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<!-- 🎨 Custom Hacking GIF -->
-<img src="./assets/Hacking.gif" width="100%" alt="Hacking Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3); margin-bottom: 20px;"/>
-
-<br/>
-
-<!-- 🐱 Murakami Cat -->
-<img src="./assets/murakamicat.png" width="80%" alt="Murakami Cat" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 217, 255, 0.4); margin-top: 10px;"/>
-
-</td>
-</tr>
-</table>
+---
 
 ### 🧐 More About Me:
 
@@ -126,9 +111,6 @@ motto: "Automate Everything, Secure Everything"
 ### 🌱 Currently Learning
 
 <p align="left">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
 <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
 </p>
